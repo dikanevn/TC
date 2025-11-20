@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Счетчик v29</h1>
+      <h1 className="title">Счетчик v30</h1>
       <div className="count">{count}</div>
       <div className="buttonContainer">
         <button 
